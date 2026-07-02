@@ -1,3 +1,4 @@
+# Sowganthika Elangovan 🦖
 # 💫 About Me:
 🔭 I’m currently working on Agentic AI applications and Full-Stack Development projects.<br>👯 I’m looking to collaborate on AI, Full-Stack Development, and Open Source projects.<br>🤝 I’m looking for help with Agentic AI, Cloud Technologies, and Open Source contributions.<br>🌱 I’m currently learning Agentic AI, Full-Stack Development, Machine Learning, and Cloud Computing.<br>💬 Ask me about Java, Python, C++, Full-Stack Development, AI, DBMS, and UI/UX Design.<br>⚡ Fun fact: I enjoy building intelligent AI applications and transforming ideas into impactful real-world solutions.
 
